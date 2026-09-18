@@ -1,0 +1,6 @@
+{
+  "name": "All in One Tool India",
+  "description": "Drop anything. Get useful tools. Comprehensive online utility platform for PDF, images, text, developer, calculators, SEO, QR codes, and Gemini AI utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
